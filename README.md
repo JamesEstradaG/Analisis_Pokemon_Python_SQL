@@ -25,7 +25,7 @@ Utilizando consultas SQL, descubrí que los Pokémon con más de 150 Puntos de V
 **3. ¿Qué tipo de Pokémon tiene más vida en promedio?**
 Agrupando los datos con SQL, comprobé matemáticamente que el tipo Dragón es el rey indiscutible de la resistencia en el juego.
 
-## 🚀 Conclusión
+## Conclusión
 Este proyecto me permitió experimentar la lectura y limpieza de un CSV alojado en la nube, hasta la consulta estructurada en bases de datos para encontrar la respuesta a las preguntas planteadas.
 
 ---
